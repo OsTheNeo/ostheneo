@@ -35,12 +35,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=ostheneo&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ostheneo&layout=compact&theme=tokyonight)  
-
----
-
 ## 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/harrygutierrezm)  
 - 💻 [Portfolio / GitHub](https://github.com/ostheneo)  
